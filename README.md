@@ -26,7 +26,7 @@ this is the endpoint for the servive
 - Get Title Tutorial	 [GET]	: http://localhost:8080/api/tutorials?title={Title}
 - Get Published Tutorial [GET]	: http://localhost:8080/api/tutorials/published
 
-- Create Tutorial 	 [POST]	: http://localhost:8080/api/tutorials\
+- Create Tutorial 	 [POST]	: http://localhost:8080/api/tutorials \
   Request:
 ```json
   {
@@ -35,7 +35,7 @@ this is the endpoint for the servive
 }
 ```
 
-- Update Tutorial	[PATCH]	: http://localhost:8080/api/tutorials/{TutorialID}\
+- Update Tutorial	[PATCH]	: http://localhost:8080/api/tutorials/{TutorialID} \
     Request:
 ```json
  {
