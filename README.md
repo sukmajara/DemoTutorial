@@ -45,8 +45,7 @@ this is the endpoint for the servive
 }
 ```
 - Delete All Tutorial 	[DELETE]: http://localhost:8080/api/tutorials 
-- Delete Blog 		[DELETE]: http://localhost:8080/api/tutorials/453
-    Request:
+- Delete Blog 		[DELETE]: http://localhost:8080/api/tutorials/{TutorialID}
 
 *make adjusment in application.properties if needed*
 
