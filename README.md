@@ -17,7 +17,7 @@ in Spring Tool Suite 4
  - Update Project to make sure all pom.xml imported
  - Run as Spring Boot App
 
-the app default running on port 8081 for the api and PostgreSQL on 5432
+the app default running on port 8080 for the api and PostgreSQL on 5432
 
 ## Usage
 this is the endpoint for the servive
